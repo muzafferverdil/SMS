@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Final_Group_38\bin\Debug\Final_Group_23.exe.config
+C:\Users\Dell\Desktop\Final_Group_38\bin\Debug\Final_Group_23.exe
+C:\Users\Dell\Desktop\Final_Group_38\bin\Debug\Final_Group_23.pdb
+C:\Users\Dell\Desktop\Final_Group_38\obj\Debug\Final_Group_38.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Final_Group_38\obj\Debug\Final_Group_23.Properties.Resources.resources
+C:\Users\Dell\Desktop\Final_Group_38\obj\Debug\Final_Group_38.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Final_Group_38\obj\Debug\Final_Group_38.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Final_Group_38\obj\Debug\Final_Group_23.exe
+C:\Users\Dell\Desktop\Final_Group_38\obj\Debug\Final_Group_23.pdb
+C:\Users\Dell\Desktop\Final_Group_38\bin\Debug\SMSDatabase.mdb
+C:\Users\Dell\Desktop\Final_Group_38\obj\Debug\Final_Group_38.AddForm.resources
+C:\Users\Dell\Desktop\Final_Group_38\obj\Debug\Final_Group_38.EnrollmentForm.resources
+C:\Users\Dell\Desktop\Final_Group_38\obj\Debug\Final_Group_38.SMSForm.resources
+C:\Users\Dell\Desktop\Final_Group_38\obj\Debug\Final_Group_38.GradeForm.resources
